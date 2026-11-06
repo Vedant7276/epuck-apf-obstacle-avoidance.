@@ -1,0 +1,28 @@
+Leg  Waypoint (x, z)  Status      Time [s]  Path [m]  Efficiency
+1    ( 1.50, -0.90)    reached         76.5      3.84        0.87
+2    ( 1.50,  0.30)    reached         21.1      1.33        0.96
+3    ( 0.20,  1.60)    reached         27.4      1.86        0.99
+4    (-1.30,  1.50)    reached         28.8      1.64        0.91
+5    (-1.50,  0.30)    reached         23.6      1.43        0.91
+6    (-0.20, -1.50)    reached         32.6      2.23        1.00
+7    ( 0.40,  0.20)    reached         32.4      1.75        0.94
+
+Waypoints reached                          7 of 7
+Total time [s]                             242.4
+Total path length [m]                      14.08
+Average speed [m/s]                        0.058
+Closest gap to any obstacle [m]            0.067
+Collisions (robot body touched an obstacle) none
+Obstacles passed within 0.30 m             8 of 9
+
+Obs  Type      Position (x, z)  Closest gap [m]
+1    box       (-0.60,  0.95)    0.566
+2    box       ( 1.00, -0.89)    0.212
+3    cylinder  ( 1.08,  1.27)    0.295
+4    cylinder  (-0.35, -0.51)    0.147
+5    box       (-1.45, -0.93)    0.067
+6    box       ( 1.30, -0.30)    0.216
+7    box       (-0.45,  1.40)    0.139
+8    cylinder  (-1.25,  0.90)    0.196
+9    cylinder  ( 0.15, -0.90)    0.131
+Max wheel speed [rad/s]                    6.08
